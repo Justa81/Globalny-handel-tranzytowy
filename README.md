@@ -26,7 +26,7 @@ Projekt zawiera wykresy i mapy, m.in.:
 
 1. Pobierz repozytorium:
    ```bash
-   git clone https://github.com/link-do-twojego-profilu/Port_Trade_Analysis.git
+   git clone https://github.com/Justa81/Globalny-handel-tranzytowy
    ```
 2. Zainstaluj wymagane biblioteki:
    ```bash
@@ -43,8 +43,8 @@ Jestem analitykiem danych z pasją do eksploracji dużych zbiorów informacji i 
 
 Zapraszam do kontaktu:
 
-- LinkedIn: [Twój Profil](https://www.linkedin.com/in/link-do-twojego-profilu/)
-- GitHub: [Twoje Repozytorium](https://github.com/link-do-twojego-profilu/)
+- LinkedIn: [Justyna Sieńkowska](www.linkedin.com/in/justynasienkowska)
+- GitHub: [Justyna Sieńkowska](https://github.com/Justa81)
 - Email: justynasienkowska@gmail.com
 
 ## Możliwości Rozwoju
