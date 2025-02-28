@@ -20,7 +20,6 @@ Ten projekt to analiza globalnego handlu tranzytowego, koncentrująca się na pr
 Projekt zawiera wykresy i mapy, m.in.:
 - Ranking 10 krajów o największym imporcie i eksporcie
 - Rozkład wielkości przeładunków na wykresach słupkowych i kołowych
-- Mapy przedstawiające geograficzne rozmieszczenie największych portów kontenerowych
 
 ## Jak Uruchomić Projekt
 
