@@ -1,6 +1,7 @@
 # Globalny Handel Tranzytowy - Analiza Danych
 
 ## O Projekcie
+https://public.tableau.com/shared/452Y5T38R?:display_count=n&:origin=viz_share_link
 Ten projekt to analiza globalnego handlu tranzytowego, koncentrująca się na przeładunkach kontenerów w portach morskich na świecie w latach 2019-2024. Przetworzono ponad 3 miliony rekordów, aby zidentyfikować kraje i porty o największym wolumenie importu i eksportu oraz sprawdzić, jak liczba terminali kontenerowych wpływa na przepustowość portów. dane są szacunkowe.
 
 ## Kluczowe Wnioski
