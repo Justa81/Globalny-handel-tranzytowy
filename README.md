@@ -43,8 +43,8 @@ Jestem analitykiem danych z pasją do eksploracji dużych zbiorów informacji i 
 
 Zapraszam do kontaktu:
 
-- LinkedIn: [Twój Profil](www.linkedin.com/in/justynasienkowska).
-- GitHub: [Twoje Repozytorium](https://github.com/link-do-twojego-profilu/)
+- LinkedIn: (www.linkedin.com/in/justynasienkowska).
+- GitHub: ((https://github.com/Justa81))
 - Email: justynasienkowska@gmail.com
 
 ## Możliwości Rozwoju
